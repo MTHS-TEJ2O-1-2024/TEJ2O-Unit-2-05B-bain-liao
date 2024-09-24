@@ -1,7 +1,7 @@
 """
 Created by: Bain Liao
 Created on: Sep 2024
-This module figures out the temperature
+This module figures out the temperature in kelvin
 """
 
 from microbit import *
